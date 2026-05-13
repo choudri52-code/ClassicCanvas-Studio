@@ -1,4 +1,4 @@
-# Welcome to Choudri Marketplace 🎨
+# Welcome to Classic Canvas Studio 🎨
 
 https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 ### 🚀 High-Quality Digital Assets for Developers & Creators
